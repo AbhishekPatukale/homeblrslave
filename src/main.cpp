@@ -59,7 +59,7 @@ void setup()
   pinMode(l5, OUTPUT);
   pinMode(l6, OUTPUT);
 
-  blink_twice();
+  //blink_twice();
   
   Serial.println("WELCOME   ");
   // Serial.begin(115200);
